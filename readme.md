@@ -20,3 +20,6 @@ Dependency on maven:
   <version>0.7</version>  
 </dependency>  
 ```
+
+how to get a rar file’s comments with this tools???
+Please connect me on 1011437633@qq.com
